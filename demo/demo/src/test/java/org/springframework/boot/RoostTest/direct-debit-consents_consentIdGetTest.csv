@@ -1,0 +1,11 @@
+consentId^|^AdditionalCSVvaluInfo^|^Authorization^|^x-fapi-auth-date^|^x-fapi-customer-ip-address^|^x-fapi-interaction-id^|^Accept-Language^|^statusCode
+cns1234^|^169.254.169.254^|^Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9^|^2023-04-01T08:00:00Z^|^192.168.1.1^|^interact-1^|^en-HK^|^200
+cns5678^|^169.254.169.254^|^Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9^|^2023-04-01T08:05:00Z^|^192.168.1.2^|^interact-2^|^zh-HK^|^401
+cns9012^|^169.254.169.254^|^Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9^|^2023-04-01T08:10:00Z^|^192.168.1.3^|^interact-3^|^zh-CN^|^403
+cns3456^|^169.254.169.254^|^Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9^|^2023-04-01T08:15:00Z^|^192.168.1.4^|^interact-4^|^en-HK^|^405
+cns7890^|^169.254.169.254^|^Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9^|^2023-04-01T08:20:00Z^|^192.168.1.5^|^interact-5^|^zh-HK^|^406
+cns1123^|^169.254.169.254^|^Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9^|^2023-04-01T08:25:00Z^|^192.168.1.6^|^interact-6^|^zh-CN^|^429
+cns4567^|^169.254.169.254^|^Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9^|^2023-04-01T08:30:00Z^|^192.168.1.7^|^interact-7^|^en-HK^|^500
+cns8901^|^169.254.169.254^|^Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9^|^2023-04-01T08:35:00Z^|^192.168.1.8^|^interact-8^|^zh-HK^|^503
+cns2345^|^169.254.169.254^|^Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9^|^2023-04-01T08:40:00Z^|^192.168.1.9^|^interact-9^|^zh-CN^|^504
+cns6789^|^169.254.169.254^|^Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9^|^2023-04-01T08:45:00Z^|^192.168.1.10^|^interact-10^|^en-HK^|^200
